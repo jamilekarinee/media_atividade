@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #ffaad6;
+} 
+.h1_font_family{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bim_font_family{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px; 
+    margin-right: 10px;
+}
+.input_border{
+    border-radius: 3px; 
+    border: 0px;
+    margin-top: 2px;
+} 
+.buttons{
+    border: 0px;
+    font-size: 15px; 
+    border-radius: 4px; 
+    margin-top: 3px;
+}
